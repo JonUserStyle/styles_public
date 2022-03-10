@@ -52,7 +52,7 @@ h1 { font-size: 12px; font-weight: bold; margin-bottom: 0px;}
 
 /* forms */
 .input { font-size: 11px; background-color: #FFECD3; height: 17px; border: 1px solid #C85424; }
-.submitsagen { font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-left: 2px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
+.submitsagen { font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-left: 2px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(https://cdn.jsdelivr.net/gh/JonUserStyle/styles_public@main/images/button_bg2.jpg); }
 .submitschreien { font-size: 11px; font-weight: bold; color: #004DA7; padding-bottom: 2px; width: 87px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
 .submitclan { font-size: 11px; font-weight: bold; color: #D20000; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
 .submitworldsay { font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
@@ -82,7 +82,7 @@ select { font-size: 11px; background-color: #DBEBEF; }
 .chatpics { visibility: visible; }
 
 /* frames bg */
-.framebannerbg { background-color: #C85424; background-image: url(images/bannerbg.jpg); border-bottom: 1px solid #000000; }
+.framebannerbg { background-color: #C85424; background-image: url(https://cdn.jsdelivr.net/gh/JonUserStyle/styles_public@main/images/bannerbg.jpg); border-bottom: 1px solid #000000; }
 .framechatformbg { background-color: #E7E7E7; }
 .framechattextbg { background-color: #F8F8F8; margin: 10px; margin-top: 5px; margin-bottom: 5px; margin-right: 5px; }
 .framemainbg { margin: 10px; background-image: url(images/mainbg.jpg); background-repeat: repeat-y; background-position: right; }
