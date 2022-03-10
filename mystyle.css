@@ -52,12 +52,12 @@ h1 { font-size: 12px; font-weight: bold; margin-bottom: 0px;}
 
 /* forms */
 .input { font-size: 11px; background-color: #FFECD3; height: 17px; border: 1px solid #C85424; }
-.submitsagen { font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-left: 2px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(../images/button_bg2.jpg); }
-.submitschreien { font-size: 11px; font-weight: bold; color: #004DA7; padding-bottom: 2px; width: 87px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(../images/button_bg2.jpg); }
-.submitclan { font-size: 11px; font-weight: bold; color: #D20000; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(../images/button_bg2.jpg); }
-.submitworldsay { font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(../images/button_bg2.jpg); }
-.submitgroup { font-size: 11px; font-weight: bold; color: #E36B30; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(../images/button_bg2.jpg); }
-.submitwhisper { font-size: 11px; font-weight: bold; color: #006600; padding-bottom: 2px; width: 88px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(../images/button_bg2.jpg); }
+.submitsagen { font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-left: 2px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
+.submitschreien { font-size: 11px; font-weight: bold; color: #004DA7; padding-bottom: 2px; width: 87px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
+.submitclan { font-size: 11px; font-weight: bold; color: #D20000; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
+.submitworldsay { font-size: 11px; font-weight: bold; color: #000000; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
+.submitgroup { font-size: 11px; font-weight: bold; color: #E36B30; padding-bottom: 2px; width: 80px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
+.submitwhisper { font-size: 11px; font-weight: bold; color: #006600; padding-bottom: 2px; width: 88px; height: 17px; margin-right: 2px; border: thin #777777 solid; border-width: 1px; background-image: url(images/button_bg2.jpg); }
 
 textarea { font-size: 12px; background-color: #FFECD3; border: 1px solid #C85424; }
 select { font-size: 11px; background-color: #DBEBEF; }
@@ -82,30 +82,30 @@ select { font-size: 11px; background-color: #DBEBEF; }
 .chatpics { visibility: visible; }
 
 /* frames bg */
-.framebannerbg { background-color: #C85424; background-image: url(../images/bannerbg.jpg); border-bottom: 1px solid #000000; }
+.framebannerbg { background-color: #C85424; background-image: url(images/bannerbg.jpg); border-bottom: 1px solid #000000; }
 .framechatformbg { background-color: #E7E7E7; }
 .framechattextbg { background-color: #F8F8F8; margin: 10px; margin-top: 5px; margin-bottom: 5px; margin-right: 5px; }
-.framemainbg { margin: 10px; background-image: url(../images/mainbg.jpg); background-repeat: repeat-y; background-position: right; }
-.frameitembg { margin: 10px; background-color: #DCDCDC; background-image: url(../images/itembg.jpg); }
-.framemapbg { margin: 10px; margin-top: 3px; background-color: #C1BDBA; background-image: url(../images/itembg.jpg); }
-.framemenubg { background-color: #C1BDBA; background-image: url(../images/itembg.jpg); }
+.framemainbg { margin: 10px; background-image: url(images/mainbg.jpg); background-repeat: repeat-y; background-position: right; }
+.frameitembg { margin: 10px; background-color: #DCDCDC; background-image: url(images/itembg.jpg); }
+.framemapbg { margin: 10px; margin-top: 3px; background-color: #C1BDBA; background-image: url(images/itembg.jpg); }
+.framemenubg { background-color: #C1BDBA; background-image: url(images/itembg.jpg); }
 
 .framebannerbg .bannermodquickbar { background: transparent; }
 
 /* main module */
-td.mainheader { font-size: 35px; background-image: url(../images/headerbg.jpg); }
+td.mainheader { font-size: 35px; background-image: url(images/headerbg.jpg); }
 table.areadescription { border: 1px solid #FFDAA9; background-color: #FFF8EF; width: 100%; }
 td.areadescription { padding: 5px; }
 .imageborder { border: 1px solid #C85424; background-color: #C85424; margin-right: 10px; margin-bottom: 1px;}
-p.maincaption { font-weight: bold; font-size: 30px; padding: 2px; padding-left: 5px; background-image: url(../images/headerbg.jpg); }
-p.maincaption2 { font-weight: bold; font-size: 12px; padding: 2px; padding-left: 5px; background-image: url(../images/bluebg.jpg); }
+p.maincaption { font-weight: bold; font-size: 30px; padding: 2px; padding-left: 5px; background-image: url(images/headerbg.jpg); }
+p.maincaption2 { font-weight: bold; font-size: 12px; padding: 2px; padding-left: 5px; background-image: url(images/bluebg.jpg); }
 p.maindesc1 { padding: 2px; padding-left: 5px; background-color: #ECE9E6; border: 1px solid #D6CBC2; border-top: 1px; width: 300px; }
 p.maindesc2 { border: 1px solid #FFDAA9; background-color: #FFF8EF; width: 100%; }
 p.listplaceitemsrow { padding: 2px; padding-left: 5px; background-color: #ECE9E6; border: 1px solid #D6CBC2; border-top: 0px; }
 p.listusersrow { padding: 2px; padding-left: 5px; background-color: #ECE9E6; border: 1px solid #D6CBC2; border-top: 0px; }
 
 /* item module */
-p.listcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(../images/button_bg.jpg); }
+p.listcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(images/button_bg.jpg); }
 p.listsubcaption { border-bottom: 1px solid #D6CBC2; }
 p.listrow { padding: 2px; padding-left: 5px; background-color: #ECE9E6; border: 1px solid #D6CBC2; border-top: 0px; }
 p.listrow_padding { padding-top: 0.3em; padding-bottom: 0.3em; }
@@ -122,8 +122,8 @@ p.listplaceitemsrow { padding: 2px; padding-left: 5px; background-color: #ECE9E6
 p.positiontext { background-color: #BBBBBB; border: 1px solid #555555; color: #000000; font-size: 10px; margin-left: 0px; margin-right: 0px; margin-bottom: 3px; padding-left: 0px; padding-right: 0px; width: 100%; }
 
 /* main module */
-p.personlistcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(../images/buttonblue_bg.jpg); }
-p.itemlistcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(../images/buttonorange_bg.jpg); }
+p.personlistcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(images/buttonblue_bg.jpg); }
+p.itemlistcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(images/buttonorange_bg.jpg); }
 
 
 /* misc */
@@ -131,7 +131,7 @@ p.itemlistcaption { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; 
 
 img.nocango {background: transparent;}
 a.nocango {background: #transparent; height: 50px; width: 50px; border-width: 0; display: block;}
-a.nocango:hover {background: url(../images/map/nocango.gif) top left no-repeat; cursor: default;}
+a.nocango:hover {background: url(images/map/nocango.gif) top left no-repeat; cursor: default;}
 
 .abilitymenu { border: 0px; border-collapse: collapse; }
 .abilitymenu tr { padding: 2px; padding-left: 5px; background-color: #ECE9E6; }
@@ -139,7 +139,7 @@ a.nocango:hover {background: url(../images/map/nocango.gif) top left no-repeat; 
 td.c1 {text-align: left;}
 .bold td {font-weight: bold;}
 
-#plantrow { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(../images/buttongreen_bg.jpg); }
+#plantrow { border: 1px solid #A2A09F; font-weight: bold; padding: 2px; padding-left: 5px; background-image: url(images/buttongreen_bg.jpg); }
 .aggressivenpc { font-weight: bold; color: #FF0000; }
 .friendlist { border-collapse: collapse; }
 .friendlist tr { background-color: #ECE9E6; }
