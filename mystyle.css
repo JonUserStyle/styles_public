@@ -89,6 +89,7 @@ select { font-size: 11px; background-color: #DBEBEF; }
 .frameitembg { margin: 10px; background-color: #DCDCDC; background-image: url(images/itembg.jpg); }
 .framemapbg { margin: 10px; margin-top: 3px; background-color: #C1BDBA; background-image: url(images/itembg.jpg); }
 .framemenubg { background-color: #C1BDBA; background-image: url(images/itembg.jpg); }
+.framebannerbg:before {top : 0px; left : 0px; position : absolute; content : url("https://freewar.zocker.eu/grafik.php"); width : 350px; height : 75px; opacity : 0.6;}
 
 .framebannerbg .bannermodquickbar { background: transparent; }
 
