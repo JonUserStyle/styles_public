@@ -82,14 +82,14 @@ select { font-size: 11px; background-color: #DBEBEF; }
 .chatpics { visibility: visible; }
 
 /* frames bg */
-.framebannerbg { background-color: #C85424; background-image: url(https://cdn.jsdelivr.net/gh/JonUserStyle/styles_public@main/images/bannerbg.jpg); border-bottom: 1px solid #000000; }
+/* .framebannerbg { background-color: #C85424; background-image: url(https://cdn.jsdelivr.net/gh/JonUserStyle/styles_public@main/images/bannerbg.jpg); border-bottom: 1px solid #000000; } */
 .framechatformbg { background-color: #E7E7E7; }
 .framechattextbg { background-color: #F8F8F8; margin: 10px; margin-top: 5px; margin-bottom: 5px; margin-right: 5px; }
 .framemainbg { margin: 10px; background-image: url(images/mainbg.jpg); background-repeat: repeat-y; background-position: right; }
 .frameitembg { margin: 10px; background-color: #DCDCDC; background-image: url(images/itembg.jpg); }
 .framemapbg { margin: 10px; margin-top: 3px; background-color: #C1BDBA; background-image: url(images/itembg.jpg); }
 .framemenubg { background-color: #C1BDBA; background-image: url(images/itembg.jpg); }
-.framebannerbg::before {top : 0px; left : 0px; position : absolute; content : url("https://freewar.zocker.eu/grafik.php"); width : 350px; height : 75px; opacity : 0.6;}
+.framebannerbg {top : 0px; left : 0px; position : absolute; content : url("https://freewar.zocker.eu/grafik.php"); width : 350px; height : 75px; opacity : 0.6;}
 
 .framebannerbg .bannermodquickbar { background: transparent; }
 
